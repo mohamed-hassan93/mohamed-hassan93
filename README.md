@@ -2,7 +2,7 @@
   
 ### <div align="center">Hi! I'm Mohamed.
 
-A passionate community-taught full-stack software developer with a background in process engineering and digital transformation. Experienced in JavaScript-based programming. Looking to merge my interests in sport, music and tech!</div>  
+A passionate community-taught full-stack software developer with a background in process engineering and digital transformation. Experienced in JavaScript-based programming. Looking to merge my interests in sport, music, and tech!</div>  
   
 
 - 🔭 I’m currently working on [2022 Football Match Day Analytics Web-Application](https://github.com/mohamed-hassan93/soccerStats)  
@@ -91,5 +91,5 @@ A passionate community-taught full-stack software developer with a background in
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<!-- ----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div> -->
