@@ -70,7 +70,7 @@ A passionate community-taught full-stack software developer with a background in
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mohamed-hassan93&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mohamed-hassan93&show_icons=true&count_private=true&hide_border=true" align="center" background-color = 'white'/></div>  
 
 <br/>  
 
