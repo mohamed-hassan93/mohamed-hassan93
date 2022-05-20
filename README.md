@@ -11,7 +11,7 @@ A passionate community-taught full-stack software developer with a background in
 - 🌱 I’m currently learning Node.js and React  
   
 
-- ⚡ Fun fact: The Phoenix Suns got blown out in game 7 by Luka Doncic  
+- ⚡ Fun fact: Celtics tie up their series with the Heat, it is now 1-1 heading to Boston for Game 3  
   
 
 <br/>  
