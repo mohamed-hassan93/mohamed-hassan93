@@ -1,6 +1,6 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%"/>  
   
-### <div align="center">Hi! I'm Mohamed.
+### <div align="center">Hi! I'm Mohamed Hassan
 
 A passionate community-taught full-stack software developer with a background in process engineering and digital transformation. Experienced in JavaScript-based programming. Looking to merge my interests in sport, music, and tech!</div>  
   
