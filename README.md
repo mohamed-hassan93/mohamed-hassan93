@@ -11,7 +11,7 @@ A passionate community-taught full-stack software developer with a background in
 - 🌱 I’m currently learning Node.js and React  
   
 
-- ⚡ Fun fact: Celtics tie up their series with the Heat, it is now 1-1 heading to Boston for Game 3  
+- ⚡ Fun fact: Celtics are ahead in their series with the Heat, it is now 3-2 heading to Game 6. 
   
 
 <br/>  
