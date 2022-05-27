@@ -11,7 +11,7 @@ A passionate community-taught full-stack software developer with a background in
 - 🌱 I’m currently learning Node.js and React  
   
 
-- ⚡ Fun fact: Celtics are ahead in their series with the Heat, it is now 3-2 heading to Game 6. 
+- ⚡ Fun fact: GSW are going to the NBA finals. 
   
 
 <br/>  
