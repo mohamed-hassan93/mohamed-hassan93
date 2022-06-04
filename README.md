@@ -1,6 +1,6 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%"/>  
   
-### <div align="center">Hi! I'm Mohamed Hassan
+### <div align="center">Hi! I'm Mohamed Hassan!
 
 A passionate community-taught full-stack software developer with a background in process engineering and digital transformation. Experienced in JavaScript-based programming. Looking to merge my interests in sport, music, and tech!</div>  
   
@@ -11,7 +11,7 @@ A passionate community-taught full-stack software developer with a background in
 - 🌱 I’m currently learning Node.js and React  
   
 
-- ⚡ Fun fact: GSW are going to the NBA finals. 
+- ⚡ Fun fact: Boston have a 1-0 lead over GSW. 
   
 
 <br/>  
