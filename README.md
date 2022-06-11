@@ -11,7 +11,7 @@ A passionate community-taught full-stack software developer with a background in
 - 🌱 I’m currently learning Node.js and React  
   
 
-- ⚡ Fun fact: Boston have a 2-1 lead over GSW!  
+- ⚡ Fun fact: Boston and GSW are 2-2!  
   
 
 <br/>  
