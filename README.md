@@ -11,7 +11,7 @@ A passionate community-taught full-stack software developer with a background in
 - 🌱 I’m currently learning Node.js and React  
   
 
-- ⚡ Fun fact: GSW are up 3-2 against BOS in the NBA Finals!  
+- ⚡ Fun fact: GSW are NBA Champions!  
   
 
 <br/>  
