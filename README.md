@@ -11,7 +11,7 @@ A passionate community-taught full-stack software developer with a background in
 - 🌱 I’m currently learning Node.js and React  
   
 
-- ⚡ Fun fact: GSW are NBA Champions!!!  
+- ⚡ Fun fact: Arsenal are Top of the League 
   
 
 <br/>  
