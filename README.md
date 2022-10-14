@@ -8,7 +8,7 @@ A passionate community-taught full-stack software developer with a background in
 - 🔭 I’m currently working on [2022 Football Match Day Analytics Web-Application](https://github.com/mohamed-hassan93/soccerStats)  
   
 
-- 🌱 I’m currently learning Node.js and React  
+- 🌱 I’m currently learning Rest APIs, Local Storage, and Postman to test APIs   
   
 
 - ⚡ Fun fact: Arsenal are still Top of the League! 
