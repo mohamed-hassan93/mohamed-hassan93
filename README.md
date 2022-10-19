@@ -5,7 +5,7 @@
 A passionate community-taught full-stack software developer with a background in process engineering and digital transformation. Experienced in JavaScript-based programming. Looking to merge my interests in sport, music, and tech!</div>  
   
 
-- 🔭 I’m currently working on [2022 Football Match Day Analytics Web-Application], [War Card Game], and [Drink Recipe API](https://github.com/mohamed-hassan93/soccerStats)  
+- 🔭 I’m currently working on [2022 Football Match Day Analytics Web-Application], [War Card Game (Almost Done!)], and [Drink Recipe API](https://github.com/mohamed-hassan93/soccerStats)  
   
 
 - 🌱 I’m currently learning Rest APIs, Local Storage, and Postman to test APIs   
