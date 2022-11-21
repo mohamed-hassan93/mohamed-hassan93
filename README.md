@@ -8,7 +8,7 @@ A passionate community-taught full-stack software developer with a background in
 - 🔭 I’m currently working on [2022 Football Match Day Analytics Web-Application], [Trying to figure out the Spotify API for my 100hours project], revamping my portfolio!
   
 
-- 🌱 I’m currently learning Rest APIs, Local Storage, and Postman to test APIs   
+- 🌱 I’m currently learning Rest APIs, TailwindCSS, and Postman to test APIs   
   
 
 - ⚡ Fun fact: Arsenal are still Top of the League! 
