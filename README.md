@@ -5,7 +5,7 @@
 A passionate community-taught full-stack software developer with a background in process engineering and digital transformation. Experienced in JavaScript-based programming. Looking to merge my interests in sport, music, and tech!</div>  
   
 
-- 🔭 I’m currently working on [2022 Football Match Day Analytics Web-Application], [Trying to figure out the Spotify API for my 100hours project], revamping my portfolio!
+- 🔭 I’m currently working on [Trying to figure out the Spotify API for my 100hours project], revamping my portfolio!
   
 
 - 🌱 I’m currently learning Rest APIs, Tailwindcss, Async/Await, Node.js and Postman to test APIs   
@@ -13,7 +13,6 @@ A passionate community-taught full-stack software developer with a background in
 
 - ⚡ Fun fact: Arsenal are still Top of the League! 
   
-
 <br/>  
 
 
